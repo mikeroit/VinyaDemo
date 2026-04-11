@@ -1,6 +1,7 @@
 node_modules/
 dist/
 .env
+.env-roitman
 credentials.json
 token.json
 close-token.json
