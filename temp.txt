@@ -1,0 +1,37 @@
+A new lead has been submitted. Please see all lead information below.
+Product:
+Lead ID: XJQKZ981
+Lead Date: 2024-03-05 09:12:47
+
+Lead Information:
+Lead Name: Michael Roitman
+Phone Number: 3035881986
+Email: mikeroit@gmail.com
+Credit Rating: Good
+Property County and State: Denver, CO
+Property Zip: 80210
+Property Value: 475000
+Served in Military: Y
+Bankruptcy: N
+Loan Type: V
+Military Branch: Army
+Has Real Estate Agent: Y
+Refinance Value:
+Down Payment Percent: 10
+Refinance Balance:
+Property Type: condo
+Property Use: Primary
+Loan Product: VA
+
+Employment Status: employed
+Gross Income: 85000
+First Time purchase: Y
+Living Situation: rent
+Purchase Status: 3To6Months
+Down Payment: 45000
+Address:
+Property City: Denver
+IP Address: 72.198.44.210
+
+Thank you,
+The Mortgage Research Center Team

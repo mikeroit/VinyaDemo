@@ -104,6 +104,16 @@ export function parseLeadFromText(body: string): Lead {
     // Down payment
     downPayment: parseNumber(extractValue(body, ["Down Payment"])),
     downPaymentPercent: parseNumber(extractValue(body, ["Down Payment Percent"])),
+    downPaymentBalance: parseNumber(extractValue(body, ["Down Payment Balance"])),
+
+    // Military
+    militaryBranch: extractValue(body, ["Military Branch"]),
+
+    // Refinance
+    refinanceValue: parseNumber(extractValue(body, ["Refinance Value"])),
+
+    // Address
+    address: extractValue(body, ["Address"]),
 
     // Misc
     ipAddress: extractValue(body, ["IP Address"]),

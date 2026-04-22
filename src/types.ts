@@ -39,7 +39,11 @@ export type Lead = {
 
   downPayment?: number;
   downPaymentPercent?: number;
+  downPaymentBalance?: number;
 
+  militaryBranch?: string;
+  refinanceValue?: number;
+  address?: string;
   ipAddress?: string;
 };
 export type GmailMessage = {

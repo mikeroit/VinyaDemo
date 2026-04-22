@@ -2,6 +2,8 @@ node_modules/
 dist/
 .env
 .env-roitman
+.env-shawn
+.env-backup
 credentials.json
 token.json
 close-token.json
